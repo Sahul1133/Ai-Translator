@@ -59,7 +59,7 @@ Deep conceptual linguistic analysis powers standard and alternative translations
 ### Installation & Environment Configuration
 1.  Verify the keys are configured in your `.env` or system context:
     ```env
-    GEMINI_API_KEY=AQ.Ab8RN6JkRsG9pPbNWEt4gWUozJqxVZo-RJ6iUOVBfx4HyqOurw
+    GEMINI_API_KEY=A
     ```
 
 2.  Install required system and applet packages:
