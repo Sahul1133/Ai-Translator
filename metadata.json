@@ -1,0 +1,6 @@
+{
+  "name": "ai-translator",
+  "description": "AI Translator: translate text and speech instantly with modern AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
