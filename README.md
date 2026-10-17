@@ -1,6 +1,7 @@
 # AI Translator 🌐🎙️
 
 AI Translator is a sophisticated, full-stack, AI-driven language translation application that integrates advanced speech recognition, real-time machine translation, contextual linguistic analytics, and instant Text-to-Speech (TTS) response. The application operates securely inside a developer workspace, hiding sensitive API keys in the backend server while offering premium, low-latency, responsive frontend functionality.
+deployed on -https://ai-translator-9ubd.vercel.app/
 
 ---
 
